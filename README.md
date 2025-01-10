@@ -728,7 +728,7 @@ wider community! And feel free to send PRs for more tools!
   regions. See also last-dotplot. Nice figure using it here
   https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-00762-1/figures/4)
   [(img)](https://cmdcolin.github.io/awesome-genome-visualization/local-rearrangements.png)
-  - [MOD.PLOT](https://github.com/marbl/ModDotPlot)
+- [MOD.PLOT](https://github.com/marbl/ModDotPlot)
   [(img)](https://github.com/marbl/ModDotPlot/blob/main/images/logo.png)
 
 ## Gene structure
